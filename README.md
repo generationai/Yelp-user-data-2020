@@ -1,10 +1,11 @@
 # Yelp-user-data-2020
-Students will interpret visualizations about Yelp user data and think critically about the data set from a business and marketing perspective. 
+Students will interpret visualizations about Yelp user data and think critically about the _Yelp_ data set from a business and marketing perspective. 
 
 # Motivation and Essential Understandings
 Businesses and other organizations often collect data on their users through apps. This data might include information about the user, such as their age, as well as information about their interactions with businesses, such as commonly purchased items. The goal of this lesson is for students to gain exposure to the kinds of data commercial apps collect from users and to think critically about how the data can be used.
 
 •	How do businesses manipulate user data for their benefit? 
+
 •	What are the ethical implications of collecting user data?
 
 
